@@ -1,0 +1,1 @@
+eval takes some expression and execute it as a javascript code and store that result
